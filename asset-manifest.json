@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/anu/static/css/main.34de6062.chunk.css",
-    "main.js": "/anu/static/js/main.8f358f04.chunk.js",
-    "main.js.map": "/anu/static/js/main.8f358f04.chunk.js.map",
+    "main.js": "/anu/static/js/main.11080d41.chunk.js",
+    "main.js.map": "/anu/static/js/main.11080d41.chunk.js.map",
     "runtime~main.js": "/anu/static/js/runtime~main.bdbc5a26.js",
     "runtime~main.js.map": "/anu/static/js/runtime~main.bdbc5a26.js.map",
     "static/js/2.f22f7976.chunk.js": "/anu/static/js/2.f22f7976.chunk.js",
     "static/js/2.f22f7976.chunk.js.map": "/anu/static/js/2.f22f7976.chunk.js.map",
     "index.html": "/anu/index.html",
-    "precache-manifest.bd649fbb19bbd8f12e1ad2e20e4a98bf.js": "/anu/precache-manifest.bd649fbb19bbd8f12e1ad2e20e4a98bf.js",
+    "precache-manifest.08ef4f8e8183a41a957177e9def31d80.js": "/anu/precache-manifest.08ef4f8e8183a41a957177e9def31d80.js",
     "service-worker.js": "/anu/service-worker.js",
     "static/css/main.34de6062.chunk.css.map": "/anu/static/css/main.34de6062.chunk.css.map"
   }
