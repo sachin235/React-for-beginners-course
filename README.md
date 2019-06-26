@@ -5,7 +5,7 @@ In the given link, I've understand how to start from *react - for beginners.* Th
 [**Medium**](https://medium.com/@romedy65i/create-your-first-react-app-your-online-portfolio-and-deploying-3bc6fe2701d9)
 
 
-[<img src="https://cdn-images-1.medium.com/max/1600/1*5ztbgEt4NqpVaxTc64C-XA.png"](https://medium.com/@romedy65i/create-your-first-react-app-your-online-portfolio-and-deploying-3bc6fe2701d9)
+[<img src="https://cdn-images-1.medium.com/max/1600/1*5ztbgEt4NqpVaxTc64C-XA.png"/>](https://medium.com/@romedy65i/create-your-first-react-app-your-online-portfolio-and-deploying-3bc6fe2701d9)
 
 
 
