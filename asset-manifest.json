@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anu/static/css/main.34de6062.chunk.css",
+    "main.js": "/anu/static/js/main.417118ed.chunk.js",
+    "main.js.map": "/anu/static/js/main.417118ed.chunk.js.map",
+    "runtime~main.js": "/anu/static/js/runtime~main.bdbc5a26.js",
+    "runtime~main.js.map": "/anu/static/js/runtime~main.bdbc5a26.js.map",
+    "static/js/2.f22f7976.chunk.js": "/anu/static/js/2.f22f7976.chunk.js",
+    "static/js/2.f22f7976.chunk.js.map": "/anu/static/js/2.f22f7976.chunk.js.map",
+    "index.html": "/anu/index.html",
+    "precache-manifest.57264f76edf01bfc5a9c7e03b9fdc6e5.js": "/anu/precache-manifest.57264f76edf01bfc5a9c7e03b9fdc6e5.js",
+    "service-worker.js": "/anu/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/anu/static/css/main.34de6062.chunk.css.map"
+  }
+}
