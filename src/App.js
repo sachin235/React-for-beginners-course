@@ -11,8 +11,8 @@ function App() {
       <Router>
         <Navbar />
         <div className="mt-5 container">
-          <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
+          <Route exact path="/anu" component={Home} />
+          <Route exact path="/anu/about" component={About} />
         </div>
       </Router>
     </div>
